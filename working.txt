@@ -7,7 +7,6 @@ https://discord.com/api/webhooks/1429425299606470657/WxpGrPUpzFnebRev-pPUrUylJ1o
 https://discord.com/api/webhooks/1458473913183899871/zYl2Z0fyeDnBJblnSMJy53N6rC47xxJietRwHKriODetqU5FeOXpBVQgSnkvE5RFWiaT | Found in: https://github.com/09821/Galaxybot
 https://discord.com/api/webhooks/1441147824770125894/7BVBzHgXRaziM-KHeAPYLsiBxgq0HgGXytnfn2SvoG97uZtqxw25mWDuVv5AiwcXcrr_ | Found in: https://github.com/johjoh51100-boop/Tokengrab
 https://discord.com/api/webhooks/1463219424399069327/wLBC4tkeEy7BuFwsq4gH7DmK3Rpjv8JqRejA188xdfJwPIPP2RUvv9BY859fc8WwOwvd | Found in: https://github.com/gatmeister-c/robloxLimiteds
-https://discord.com/api/webhooks/1085179588159733870/4LyiE73KYoDaxv4HpsE9VX9_gmQv7Onk0Lj3DtrKiKkWyAxGoTzcRekHt_b0m_wn5asC | Found in: https://github.com/Nyx-Off/KeyPyLogger
 https://discord.com/api/webhooks/1458675898650984539/La_MIQTt0PUo55J4cCWqSBnn2jKizh5pucXvVMt73k1kH-tACIpMpJzzDz1Fdz-aLiK5 | Found in: https://github.com/Koraizen/minecraft-plugin-checker
 https://discord.com/api/webhooks/1457796530193956968/cynx0qmH3HNCi2EOGKa8Y14NxQ7gd0omMH6m9psI-FGUp43SSP0rvHUJQtdLco4o6Cuq | Found in: https://github.com/wazzchz/nyache-scanner
 https://discord.com/api/webhooks/1439292879104114829/AThXTeicvDe0X3i0t5Dcd9uFMs82DZ0E8K8VTMrjQkSi8fVU9jfQuyWin6qmtm6ssjAv | Found in: https://github.com/pfftpm-crypto/github.tokengrabber

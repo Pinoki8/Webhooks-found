@@ -1,15 +1,1 @@
-https://discord.com/api/webhooks/1460671050403549377/xdmpgI5l6sH_0U7UH6ZGdRY1wozZ-PVe7K2GYdS42vz6xuH_zg8SH32rk3KvgVrZ3LPG | Found in: https://github.com/wylzzzz/Token-grab-
-https://discord.com/api/webhooks/1445060641772798035/HfSTUEW2hDByBuy9K2v2PMoRCCbw1MerDul2HbIspCbsNJOVP79BzT4UhZSDdhrVJlm6 | Found in: https://github.com/DarkTeam-1/Image-Grabber
-https://discord.com/api/webhooks/1418082968064233472/GyNr6GDp-2HqbSFGGky2GLfT5Z2pRRyG4BnRGUSbpfOFhXM5z6PZXGrFF1gIlaOjrV8e | Found in: https://github.com/kherbyy/grabber
-https://discord.com/api/webhooks/1418082968064233472/GyNr6GDp-2HqbSFGGky2GLfT5Z2pRRyG4BnRGUSbpfOFhXM5z6PZXGrFF1gIlaOjrV8e | Found in: https://github.com/kherbyy/grabbersss
-https://discord.com/api/webhooks/1434140502281687213/vyFb5w02yHBEP60rolzLiTqMqFFNRX_diKpXnnPOQFkAQqBsbimboA4CEDUniQSfkInW | Found in: https://github.com/zemraniadam809-gif/grabber1
-https://discord.com/api/webhooks/1429425299606470657/WxpGrPUpzFnebRev-pPUrUylJ1o74gTsJtaSUrjxpj2GR00NtM9D3HrPk05zmns7Dy5U | Found in: https://github.com/azoxbro/MinecraftMKD
-https://discord.com/api/webhooks/1458473913183899871/zYl2Z0fyeDnBJblnSMJy53N6rC47xxJietRwHKriODetqU5FeOXpBVQgSnkvE5RFWiaT | Found in: https://github.com/09821/Galaxybot
-https://discord.com/api/webhooks/1441147824770125894/7BVBzHgXRaziM-KHeAPYLsiBxgq0HgGXytnfn2SvoG97uZtqxw25mWDuVv5AiwcXcrr_ | Found in: https://github.com/johjoh51100-boop/Tokengrab
-https://discord.com/api/webhooks/1463219424399069327/wLBC4tkeEy7BuFwsq4gH7DmK3Rpjv8JqRejA188xdfJwPIPP2RUvv9BY859fc8WwOwvd | Found in: https://github.com/gatmeister-c/robloxLimiteds
-https://discord.com/api/webhooks/1458675898650984539/La_MIQTt0PUo55J4cCWqSBnn2jKizh5pucXvVMt73k1kH-tACIpMpJzzDz1Fdz-aLiK5 | Found in: https://github.com/Koraizen/minecraft-plugin-checker
-https://discord.com/api/webhooks/1457796530193956968/cynx0qmH3HNCi2EOGKa8Y14NxQ7gd0omMH6m9psI-FGUp43SSP0rvHUJQtdLco4o6Cuq | Found in: https://github.com/wazzchz/nyache-scanner
-https://discord.com/api/webhooks/1439292879104114829/AThXTeicvDe0X3i0t5Dcd9uFMs82DZ0E8K8VTMrjQkSi8fVU9jfQuyWin6qmtm6ssjAv | Found in: https://github.com/pfftpm-crypto/github.tokengrabber
-https://discord.com/api/webhooks/1440317172189757552/qxXQ7F5QkMtiLuwuOcyuCfohC78oyv8z_gLyRzH4nNvRrumPslFYoKQmX_vQD0Gqk5tg | Found in: https://github.com/katakurijs/discordme
-https://discord.com/api/webhooks/1429519316965134476/u0HS6HTZbVmEGPN4cZ6MeCVHrQMhs6V_3MSshek_j19YoKa30TpL8rywW4KW_1iSiPHN | Found in: https://github.com/alexanderpascualc/Clean-Discord-Token-Grabber
-https://discord.com/api/webhooks/1393826650420154378/V_aE0rTM-UKpo4UQPPng7vVGoFoVHVWlpoRJCaUfGs6CG6Y_6SoUwWsLAAAvUqR6g7JX | Found in: https://github.com/phantantai73/Ddos-sever-2
+
